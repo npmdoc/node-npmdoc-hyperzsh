@@ -1,4 +1,7 @@
-# api documentation for  [hyperzsh (v1.5.0)](https://github.com/tylerreckart/hyperzsh#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hyperzsh.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hyperzsh) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hyperzsh.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hyperzsh)
+# npmdoc-hyperzsh
+
+#### basic api documentation for  [hyperzsh (v1.5.0)](https://github.com/tylerreckart/hyperzsh#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hyperzsh.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hyperzsh) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hyperzsh.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hyperzsh)
+
 #### A hyperminimal zsh prompt
 
 [![NPM](https://nodei.co/npm/hyperzsh.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hyperzsh)
@@ -58,7 +61,8 @@
     "scripts": {
         "test": "gulp test"
     },
-    "version": "1.5.0"
+    "version": "1.5.0",
+    "bin": {}
 }
 ```
 
